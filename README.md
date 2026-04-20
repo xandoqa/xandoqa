@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to Alexandre's profile! 👋</h1>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="in/alexandre-rodrigues-665a07273">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:xande.rodriguez.professional2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -28,12 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-0A0A0A?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=linux)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 📌 Featured Projects
 
