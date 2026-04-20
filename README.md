@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Alexandre's profile! 👋</h1>
 
 <p align="center">
-  <a href="in/alexandre-rodrigues-665a07273">
+  <a href="https://www.linkedin.com/in/alexandre-rodrigues-665a07273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:xande.rodriguez.professional2003@gmail.com">
