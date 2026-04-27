@@ -20,7 +20,10 @@
 ## 🛠️ Tools and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/-vue.js-0A0A0A?style=for-the-badge&logo=vue.js)
+![Vue.js](https://img.shields.io/badge/-vue.js-0A0A0A?style=for-the-badge&logo=vue.js)
+![C++](https://img.shields.io/badge/-c++-0A0A0A?style=for-the-badge&logo=c++)
+![C](https://img.shields.io/badge/-c-0A0A0A?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-java-0A0A0A?style=for-the-badge&logo=java)
 ![Flask](https://img.shields.io/badge/-Flask-0A0A0A?style=for-the-badge&logo=Flask)
 ![Django](https://img.shields.io/badge/-Django-0A0A0A?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
