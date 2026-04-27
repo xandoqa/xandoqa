@@ -32,6 +32,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-0A0A0A?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-0A0A0A?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=linux)
+![Pandas](https://img.shields.io/badge/-Pandas-0A0A0A?style=for-the-badge&logo=Pandas)
 
 
 ## 📌 Featured Projects
