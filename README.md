@@ -20,6 +20,7 @@
 ## 🛠️ Tools and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/-vue-0A0A0A?style=for-the-badge&logo=vue)
 ![Flask](https://img.shields.io/badge/-Flask-0A0A0A?style=for-the-badge&logo=Flask)
 ![Django](https://img.shields.io/badge/-Django-0A0A0A?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
