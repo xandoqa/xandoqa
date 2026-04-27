@@ -36,4 +36,10 @@
 - 🔹 REST API with Python
 - 🔹 Data structures in C
 
+![Stats](https://github-readme-stats.vercel.app/api?username=xandoqa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoqa&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=xandoqa&theme=tokyonight)
+
 <p align="center">
