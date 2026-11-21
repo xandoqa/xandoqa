@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/xandoqa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Django;Software+Engineering+Student+%40+UCB;Building+real-world+software+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+TypeScript+%26+Python;Game+Developer+in+the+making+%F0%9F%8E%AE;Software+Engineering+Student+%40+UCB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,35 +20,42 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineering student at UCB** (Catholic University of Brasília) and a **backend developer** who enjoys turning ideas into reliable, well-structured systems.
+I'm a **Software Engineering student at UCB** (Catholic University of Brasília) with a background in **Graphic Design**. I love building software people actually enjoy using, from web and mobile apps to games, combining solid code with thoughtful visual design.
 
-- ⚙️ **Focus:** backend development with **Python, Django, TypeScript and PostgreSQL**
-- 🏗️ **Experience:** building, maintaining and improving real-world software, from database design to deployment
-- 🎮 **Exploring:** game development with **C++** and **C#**
-- 🧠 **Curious about:** technology, psychology and continuous learning
-- 🤝 **Open to:** internships, junior backend roles and collaborative projects
+- 🟦 **Focus:** software development with **TypeScript** and **Python**, my two main languages, writing clean, maintainable code across the stack
+- ☕ **Also working with:** **Java** for object-oriented and backend development
+- 🎮 **Game dev:** building games and gameplay systems with **C++** and **C#**
+- 🎨 **Design background:** graduated in **Graphic Design**, so I bring an eye for visual identity, layout, typography and user experience to games, software and websites
+- 🏗️ **Experience:** building full-stack apps with React, Node/Express, Django and PostgreSQL, from architecture to delivery
+- 🧠 **Curious about:** game design, player psychology and continuous learning
+- 🤝 **Open to:** internships, junior developer roles and game jams
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Main Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,java,ts&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java&theme=dark" alt="Main languages" />
 </p>
 
-**Frontend & Mobile**
+**Software Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,vite,tailwind,vue,html,css&theme=dark" alt="Software development" />
 </p>
 
-**Data, Systems & Tools**
+**Game Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,c,cpp,cs,git,github,linux&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c&theme=dark" alt="Game development" />
+</p>
+
+**Backend, Data & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,postgres,docker,git,github,linux&theme=dark" alt="Backend and tools" />
 </p>
 
 ---
@@ -57,11 +64,11 @@ I'm a **Software Engineering student at UCB** (Catholic University of Brasília)
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧮 [**BeBetterAtMath**](https://github.com/xandoqa/BeBetterAtMath) | App for training mental math: multiplication tables and arithmetic drills to build calculation speed. | — |
-| 🚗 [**CarroEmDia**](https://github.com/xandoqa/Carro_em_dia) | Vehicle maintenance tracker for cars and motorcycles, keeping service history and upcoming maintenance in one place. | React Native |
-| 📚 [**Livrin**](https://github.com/xandoqa/-editora-acessivel) | Accessible publishing platform. Academic team project where I led development and technical decisions. | — |
+| 📚 [**Livrin**](https://github.com/xandoqa/-editora-acessivel) | Full-stack accessible publishing platform with an in-browser EPUB/PDF reader and dyslexia-friendly fonts. Academic team project where I led development and technical decisions. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Express-339933?logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| 🚗 [**CarroEmDia**](https://github.com/xandoqa/Carro_em_dia) | Mobile app for tracking car and motorcycle maintenance, with service history and upcoming services in one place. | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) |
+| 🧮 [**BeBetterAtMath**](https://github.com/xandoqa/BeBetterAtMath) | Gamified mental math trainer: multiplication tables and arithmetic drills to build calculation speed. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
 
-> 💡 More projects on the way, including a Django web system and a Python REST API.
+> 🎮 Game projects in C++ and C# coming soon.
 
 ---
 
