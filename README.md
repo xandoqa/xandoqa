@@ -1,100 +1,84 @@
-<h1 align="center">Hi there, I'm Alexandre Rodrigues! 👋</h1>
+<h1 align="center">Hi, I'm Alexandre 👋</h1>
 
-<h3 align="center">Software Engineering Student | Backend Developer | Technology Enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/xandoqa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%26+Django;Software+Engineering+Student+%40+UCB;Building+real-world+software+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-rodrigues-665a07273/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:xande.rodriguez.professional2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=xandoqa&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Software Engineering student at the Catholic University of Brasília (UCB).
-- 💻 Backend Developer focused on Python, Django, TypeScript, and PostgreSQL.
-- 🏗️ Interested in software architecture, REST APIs, database design, and system development.
-- 🛠️ Experienced in building, maintaining, and improving software projects.
-- 🎮 Exploring game development with C++ and C#.
-- 🧠 Interested in psychology, problem-solving, and continuous learning.
-- 🚀 Passionate about turning ideas into practical and meaningful software solutions.
+I'm a **Software Engineering student at UCB** (Catholic University of Brasília) and a **backend developer** who enjoys turning ideas into reliable, well-structured systems.
+
+- ⚙️ **Focus:** backend development with **Python, Django, TypeScript and PostgreSQL**
+- 🏗️ **Experience:** building, maintaining and improving real-world software, from database design to deployment
+- 🎮 **Exploring:** game development with **C++** and **C#**
+- 🧠 **Curious about:** technology, psychology and continuous learning
+- 🤝 **Open to:** internships, junior backend roles and collaborative projects
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
+**Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,java,ts&theme=dark" alt="Backend" />
 </p>
 
-### Backend & Frameworks
+**Frontend & Mobile**
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react&theme=dark" alt="Frontend" />
 </p>
 
-### Databases & Data
+**Data, Systems & Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-### Development Tools & Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=postgres,c,cpp,cs,git,github,linux&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="48" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some projects I've worked on:
+| Project | Description | Stack |
+|---|---|---|
+| 🧮 [**BeBetterAtMath**](https://github.com/xandoqa/BeBetterAtMath) | App for training mental math: multiplication tables and arithmetic drills to build calculation speed. | — |
+| 🚗 [**CarroEmDia**](https://github.com/xandoqa/Carro_em_dia) | Vehicle maintenance tracker for cars and motorcycles, keeping service history and upcoming maintenance in one place. | React Native |
+| 📚 [**Livrin**](https://github.com/xandoqa/-editora-acessivel) | Accessible publishing platform. Academic team project where I led development and technical decisions. | — |
 
-- 📚 **Livrin** — A digital publishing and reading platform focused on accessibility and independent authors.
-- 🤝 **MyFriend** — A software project focused on developing practical solutions.
-- 📊 **Ovômetro** — A project involving software development and data processing.
-- 🧮 **Be Better at Math** — An educational project focused on mathematics learning.
+> 💡 More projects on the way, including a Django web system and a Python REST API.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xandoqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alexandre's GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandoqa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xandoqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandoqa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xandoqa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  <i>"Always looking for new challenges to improve my skills and build meaningful solutions."</i><br><br>
+  ⭐ Thanks for visiting! Feel free to reach out.
 </p>
