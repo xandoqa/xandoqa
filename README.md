@@ -52,6 +52,12 @@ I'm a **Software Engineering student at UCB** (Catholic University of Brasília)
   <img src="https://skillicons.dev/icons?i=cpp,cs,c&theme=dark" alt="Game development" />
 </p>
 
+**Design, 3D & Creative**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,blender&theme=dark" alt="Design, 3D and creative tools" />
+</p>
+
 **Backend, Data & Tools**
 
 <p>
