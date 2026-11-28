@@ -27,7 +27,6 @@ I'm a **Software Engineering graduate from UCB** (Catholic University of Brasíl
 - 🎮 **Game dev:** building games and gameplay systems with **C++** and **C#**
 - 🎨 **Design background:** graduated in **Graphic Design**, so I bring an eye for visual identity, layout, typography and user experience to games, software and websites
 - 🏗️ **Experience:** building full-stack apps with React, Node/Express, Django and PostgreSQL, from architecture to delivery
-- 🧠 **Curious about:** game design, player psychology and continuous learning
 - 🤝 **Open to:** junior developer roles and game jams
 
 ---
