@@ -49,13 +49,13 @@ I'm a **Software Engineering student at UCB** (Catholic University of Brasília)
 **Game Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,c&theme=dark" alt="Game development" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,godot&theme=dark" alt="Game development" />
 </p>
 
 **Design, 3D & Creative**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,blender&theme=dark" alt="Design, 3D and creative tools" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,xd,blender&theme=dark" alt="Design, 3D and creative tools" /><img src="assets/krita.svg" height="48" alt="Krita" title="Krita" />
 </p>
 
 **Backend, Data & Tools**
