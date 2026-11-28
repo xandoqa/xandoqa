@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineering student at UCB** (Catholic University of Brasília) with a background in **Graphic Design**. I love building software people actually enjoy using, from web and mobile apps to games, combining solid code with thoughtful visual design.
+I'm a **Software Engineering graduate from UCB** (Catholic University of Brasília) with a background in **Graphic Design**. I love building software people actually enjoy using, from web and mobile apps to games, combining solid code with thoughtful visual design.
 
 - 🟦 **Focus:** software development with **TypeScript** and **Python**, my two main languages, writing clean, maintainable code across the stack
 - ☕ **Also working with:** **Java** for object-oriented and backend development
